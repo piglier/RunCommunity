@@ -12,6 +12,11 @@
 		1623C5F722317372000C4E63 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1623C5F522317372000C4E63 /* Main.storyboard */; };
 		1623C5F922317373000C4E63 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1623C5F822317373000C4E63 /* Assets.xcassets */; };
 		1623C5FC22317373000C4E63 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1623C5FA22317373000C4E63 /* LaunchScreen.storyboard */; };
+		1623C62E22324175000C4E63 /* Community.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1623C62D22324175000C4E63 /* Community.storyboard */; };
+		1623C63022324191000C4E63 /* Sport.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1623C62F22324191000C4E63 /* Sport.storyboard */; };
+		1623C63222324199000C4E63 /* Watch.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1623C63122324199000C4E63 /* Watch.storyboard */; };
+		1623C634223241A0000C4E63 /* Plan.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1623C633223241A0000C4E63 /* Plan.storyboard */; };
+		1623C636223241AB000C4E63 /* User.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1623C635223241AB000C4E63 /* User.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +27,11 @@
 		1623C5F822317373000C4E63 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1623C5FB22317373000C4E63 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1623C5FD22317373000C4E63 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1623C62D22324175000C4E63 /* Community.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Community.storyboard; sourceTree = "<group>"; };
+		1623C62F22324191000C4E63 /* Sport.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Sport.storyboard; sourceTree = "<group>"; };
+		1623C63122324199000C4E63 /* Watch.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Watch.storyboard; sourceTree = "<group>"; };
+		1623C633223241A0000C4E63 /* Plan.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Plan.storyboard; sourceTree = "<group>"; };
+		1623C635223241AB000C4E63 /* User.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = User.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +67,11 @@
 				1623C5F122317372000C4E63 /* AppDelegate.swift */,
 				1623C5F322317372000C4E63 /* ViewController.swift */,
 				1623C5F522317372000C4E63 /* Main.storyboard */,
+				1623C62D22324175000C4E63 /* Community.storyboard */,
+				1623C62F22324191000C4E63 /* Sport.storyboard */,
+				1623C63122324199000C4E63 /* Watch.storyboard */,
+				1623C633223241A0000C4E63 /* Plan.storyboard */,
+				1623C635223241AB000C4E63 /* User.storyboard */,
 				1623C5F822317373000C4E63 /* Assets.xcassets */,
 				1623C5FA22317373000C4E63 /* LaunchScreen.storyboard */,
 				1623C5FD22317373000C4E63 /* Info.plist */,
@@ -122,7 +137,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1623C63022324191000C4E63 /* Sport.storyboard in Resources */,
+				1623C62E22324175000C4E63 /* Community.storyboard in Resources */,
+				1623C634223241A0000C4E63 /* Plan.storyboard in Resources */,
+				1623C63222324199000C4E63 /* Watch.storyboard in Resources */,
 				1623C5FC22317373000C4E63 /* LaunchScreen.storyboard in Resources */,
+				1623C636223241AB000C4E63 /* User.storyboard in Resources */,
 				1623C5F922317373000C4E63 /* Assets.xcassets in Resources */,
 				1623C5F722317372000C4E63 /* Main.storyboard in Resources */,
 			);
